@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+88JL - Philippines' Most Trusted Online Betting Platform
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`88JL <https://www-88jl.com.ph/>`_ is the most trusted online betting platform in the Philippines, established in 2021 and officially launched in 2022 under the leadership of CEO Darwin Ganza. Licensed by Pagcor, 88JL offers a secure and legal environment for Filipino players to enjoy a diverse range of games, including casino, slots, sports betting, sabong, and poker. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+With an easy-to-use app available on both iOS and Android, players can access exciting promotions like a ₱18 free trial bonus and a first deposit bonus of up to ₱258. Experience safe, world-class gaming at 88JL, supported by 24/7 customer service.
 
-.. note::
+Address: 18th Floor APC Building, 1186 Quezon Ave, Diliman, Quezon City, Metro Manila, Philippines. 
 
-   This project is under active development.
+Phone: (02) 9292 1889. 
 
-Contents
---------
+Email: 88jlcomph@gmail.com. 
 
-.. toctree::
+Website: https://www-88jl.com.ph/ 
 
-   usage
-   api
+#8jl #8jlcasino #8jlslot #8jllogin #8jlapp
